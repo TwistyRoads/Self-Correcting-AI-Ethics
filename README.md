@@ -131,8 +131,8 @@ This project is **open-source** under the MIT License. Anyone can use, modify, a
 ## 💡 Contributions
 We welcome community improvements! Submit PRs and open issues to contribute.
 
-🔹 **GitHub Repository:** [https://github.com/TwistyRoads/Self-Correcting-AI](https://github.com/TwistyRoads/Self-Correcting-AI)
-🔹 **Discussion Forum:** [[TBA](https://github.com/TwistyRoads/Self-Correcting-AI-Ethics/discussions/1)]
+🔹 **GitHub Repository:** [https://github.com/TwistyRoads/Self-Correcting-AI](https://github.com/TwistyRoads/Self-Correcting-AI-Ethics/discussions))
+🔹 **Discussion Forum:** [[General](https://github.com/TwistyRoads/Self-Correcting-AI-Ethics/discussions/1)]
 
 ---
 
