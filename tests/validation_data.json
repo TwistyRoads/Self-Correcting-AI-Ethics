@@ -1,0 +1,29 @@
+{
+  "test_cases": [
+    {
+      "input": "The economy is at its strongest point in history!",
+      "expected_deception_entropy": 0.75,
+      "expected_hermetic_score": 0.45
+    },
+    {
+      "input": "Scientists confirm that AI will completely replace human labor.",
+      "expected_deception_entropy": 0.60,
+      "expected_hermetic_score": 0.50
+    },
+    {
+      "input": "Government officials never lie to the public.",
+      "expected_deception_entropy": 0.90,
+      "expected_hermetic_score": 0.30
+    },
+    {
+      "input": "Climate models indicate a steady increase in global temperatures.",
+      "expected_deception_entropy": 0.20,
+      "expected_hermetic_score": 0.85
+    },
+    {
+      "input": "History shows that economic cycles repeat every 10 years.",
+      "expected_deception_entropy": 0.25,
+      "expected_hermetic_score": 0.80
+    }
+  ]
+}
